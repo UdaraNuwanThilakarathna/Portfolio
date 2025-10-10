@@ -191,7 +191,8 @@ export default function Portfolio() {
         'https://www.figma.com/design/3pKhutyGxQdpPupTD8dQ7e/Untitled?t=3QTpbMuCSSMNbRCX-1',
       featured: true,
     },
-    {
+   
+     {
       id: 3,
       title: 'Modern Library',
       description:
