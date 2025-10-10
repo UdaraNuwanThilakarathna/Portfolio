@@ -211,6 +211,26 @@ export default function Portfolio() {
         'https://www.figma.com/design/Mi5DwyQ76dxuuH189nDlYs/Untitled?node-id=0-1&t=3QTpbMuCSSMNbRCX-1', // Add your Figma link here later
       featured: true,
     },
+    {
+      id: 3,
+      title: 'Modern Library',
+      description:
+        'Redesigned a modern library management system with emphasis on digital transformation and user-centered design. Implemented design thinking methodology, created user personas, and optimized the interface for book discovery, borrowing, and library services. Focused on accessibility and inclusive design principles.',
+      image: '/src/projects/3.png',
+      technologies: [
+        'Figma',
+        'UX Design',
+        'User Journey Mapping',
+        'Design Thinking',
+        'Accessibility Design',
+        'User Personas',
+        'Information Architecture',
+      ],
+      figma:
+        'https://www.figma.com/design/Mi5DwyQ76dxuuH189nDlYs/Untitled?node-id=0-1&t=3QTpbMuCSSMNbRCX-1', // Add your Figma link here later
+      featured: true,
+    },
+
   ];
 
   // Certifications - Currently pursuing academic qualifications
