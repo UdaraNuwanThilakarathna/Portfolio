@@ -792,7 +792,7 @@ export default function Portfolio() {
         <div className='max-w-7xl mx-auto'>
           <div className='text-center mb-12'>
             <h2 className='text-3xl sm:text-4xl font-bold text-white mb-4'>
-              Featured Projects
+              Featured 
             </h2>
             <div className='w-20 h-1 bg-gradient-to-r from-blue-400 to-cyan-400 mx-auto'></div>
           </div>
